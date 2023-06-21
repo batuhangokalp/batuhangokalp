@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Batuhan.
-
+### Hi there :wave:
+I'm Batuhan.
 🔭 I’m currently working on NextJS and React Native.
 
 <!--
