@@ -1,5 +1,6 @@
 ### 
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="330">
+<br/><br/>
 Hi there :wave:<br/><br/>
 I'm Batuhan.<br/><br/>
 🔭 I’m currently working on NextJS and React Native.
